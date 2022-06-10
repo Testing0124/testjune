@@ -1,6 +1,6 @@
   const elem = require('./elements').elements;
   
-  class pesquisa {
+  class 477740A7D2767539028A {
   
   buscar(){
         cy.get(elem.buscar).type('477740A7D2767539028A{enter}')
